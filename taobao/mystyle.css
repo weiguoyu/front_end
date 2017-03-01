@@ -1,0 +1,88 @@
+/* 淘宝首页自定义样式*/
+
+ol, ul {
+	list-style: none;
+}
+
+blockquote, body, button, dd, dl, dt, fieldset,
+form, h1, h2, h3, h4, h5, h6, hr, input, legend,
+li, ol, p, pre, td, ul {
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	text-decoration: none;
+}
+
+.site-nav {
+	z-index: 10000;
+	width: 100%;
+	background-color: #f5f5f5;
+	border-bottom: 1px solid #eee;
+}
+
+.site-nav-bd {
+	margin: 0 auto;
+	width: 1190px;
+	height: 35px;
+	background-color: #f5f5f5;
+	-webkit-backface-visibility: hidden;
+}
+
+.site-nav-bd .site-nav-bd-l {
+	float: left;
+}
+
+.site-nav-bd-r {
+	float: right;
+}
+
+.site-nav .site-nav-menu {
+	float: left;
+}
+
+.site-nav .site-nav-menu .site-nav-menu-hd {
+	z-index: 10002;
+	position: relative;
+	padding: 0 6px;
+	height: 35px;
+	line-height: 35px;
+}
+
+.site-nav .site-nav-menu .site-nav-menu-hd a {
+	float: left;
+	margin-right: 7px;
+	font-size: 12px;
+	color: #6C6C6C;
+}
+
+.site-nav .site-nav-bd .h {
+	color: #f22e00!important;
+}
+
+.site-nav .site-nav-menu .site-nav-menu-hd a:hover {
+	color: #F40;
+}
+
+.site-nav .site-nav-arrow {
+	display: block;
+	float: left;
+	border: 3px solid #ffffff;
+	border-top-color: #9c9c9c;
+	margin-top: 15px;
+	width: 0;
+	height: 0;
+}
+
+.site-nav 
+
+
+
+
+
+
+
+
+
+
